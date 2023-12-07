@@ -1,12 +1,14 @@
-{
-  "name" : "continental shock",
-  "id" : "ene.shock",
-  "version" : "0.1.0",
-  "supported_game_version" : "1.5.*",
-  "short_description" : "an alternate starting scenario for europe",
-  "tags" : [],
-  "relationships" : [],
-  "game_custom_data" : {
-    "multiplayer_synchronized" : true
+  {
+    "name" : "ene'sEu4StyleFlavour",
+    "id" : "",
+    "version" : "0.1.0",
+    "supported_game_version" : "1.3.*",
+    "picture": "",
+    "thumbnail" : "",
+    "short_description" : "eu4 style flavour for vic3",
+    "tags" : [],
+    "relationships" : [],
+    "game_custom_data" : {
+      "multiplayer_synchronized" : true
+    }
   }
-}

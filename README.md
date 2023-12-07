@@ -1,2 +1,2 @@
-# continental shock
-a mod that aims to create a scenario where many smaller european powers vie for control in the power vacuum that has followed the collapse of napoleons' successful continental system
+# ene'sEu4StyleFlavour
+ a mod that aims to bring eu4 style flavour to victoria3
